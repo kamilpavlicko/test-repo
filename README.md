@@ -1,4 +1,4 @@
-# test-repos
+# test-repo
 iaea
 ss
 ss
